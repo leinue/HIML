@@ -6,4 +6,4 @@ AI technology has a high threshold for use, but we believe that in the future, A
 
 ## About the Name
 
-Why isn't HIM called HAIML or HAML? The first reason is that HAIML is a little long and hard to read. The second reason is that HI has a good meaning, which looks more like human beings and conforms to the positioning of AI.
+Why isn't HIML called HAIML or HAML? The first reason is that HAIML is a little long and hard to read. The second reason is that HI has a good meaning, which looks more like human beings and conforms to the positioning of AI.
